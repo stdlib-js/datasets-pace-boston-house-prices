@@ -324,8 +324,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/datasets-pace-boston-house-prices.svg
 [npm-url]: https://npmjs.org/package/@stdlib/datasets-pace-boston-house-prices
 
-[test-image]: https://github.com/stdlib-js/datasets-pace-boston-house-prices/actions/workflows/test.yml/badge.svg?branch=v0.2.1
-[test-url]: https://github.com/stdlib-js/datasets-pace-boston-house-prices/actions/workflows/test.yml?query=branch:v0.2.1
+[test-image]: https://github.com/stdlib-js/datasets-pace-boston-house-prices/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/datasets-pace-boston-house-prices/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets-pace-boston-house-prices/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/datasets-pace-boston-house-prices?branch=main
