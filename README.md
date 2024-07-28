@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dataset from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-pace-boston-house-prices@esm/index.mjs';
+import dataset from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-pace-boston-house-prices@v0.2.2-esm/index.mjs';
 ```
 
 #### dataset()
@@ -138,7 +138,7 @@ var data = dataset();
 <script type="module">
 
 import Plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@esm/index.mjs';
-import dataset from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-pace-boston-house-prices@esm/index.mjs';
+import dataset from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-pace-boston-house-prices@v0.2.2-esm/index.mjs';
 
 var data;
 var plot;
